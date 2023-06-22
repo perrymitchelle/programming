@@ -1,0 +1,18 @@
+.wrapper { 
+    display: flex;
+    justify-content: space-between;
+    color: chocolate;
+}
+
+#div1 {
+    background-color: blue;
+    padding: 5px;
+}
+#div2 {
+    background-color: aqua;
+    padding: 5px;
+}
+#div3 {
+    background-color: brown;
+    padding: 5px;
+}
